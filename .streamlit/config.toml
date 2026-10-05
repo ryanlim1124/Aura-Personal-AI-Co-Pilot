@@ -1,0 +1,11 @@
+Ini, TOML
+[theme]
+base = "light"
+primaryColor = "#0D9488"
+backgroundColor = "#FAFAFA"
+secondaryBackgroundColor = "#F3F4F6"
+textColor = "#1F2937"
+font = "sans serif"
+
+[client]
+toolbarMode = "minimal"

@@ -1,0 +1,13 @@
+langchain==0.3.30
+langchain-core==0.3.86
+langchain-openai==0.3.35
+langchain-ollama==0.2.3
+langchain-google-genai
+python-dotenv==1.0.1
+ddgs==9.16.0
+yfinance==1.7.0
+pandas==3.0.2
+numpy==2.4.4
+pypdf==5.9.0
+pydantic==2.13.5
+ 
